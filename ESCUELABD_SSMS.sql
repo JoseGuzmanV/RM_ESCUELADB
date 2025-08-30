@@ -1,5 +1,5 @@
 -- =============================================
--- MODELO LÓGICO RELACIONAL (SQL Server - SSMS 19)
+-- MODELO LÃ“GICO RELACIONAL (SQL Server - SSMS 19)
 -- =============================================
 USE escuelabd;
 GO
